@@ -1,5 +1,6 @@
 <?php
 
+// ini percobaan
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DashboardUserController;
 use App\Http\Controllers\AuthController;
